@@ -16,4 +16,4 @@ This release is licensed under GNU General Public License 3.0.
 
 If you use or modify the code or the data provided here, please cite them as:
 
-Kalivoda, Ágnes & Prószéky, Gábor (2023). Hungarian Auxiliaries Revisited. _Acta Linguistica Academica_ 70(4): to appear.
+Kalivoda, Ágnes & Prószéky, Gábor (2024). Hungarian auxiliaries revisited. _Acta Linguistica Academica_ 71(1): Accepted Manuscript / Online first. [https://akjournals.com/view/journals/2062/aop/article-10.1556-2062.2023.00701/article-10.1556-2062.2023.00701.xml](https://akjournals.com/view/journals/2062/aop/article-10.1556-2062.2023.00701/article-10.1556-2062.2023.00701.xml)
